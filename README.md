@@ -21,7 +21,7 @@ docker exec -it es-vi bash
 bin/elasticsearch-plugin list
 ```
 
-![es-vi](https://d3dehtdmp2rwcw.cloudfront.net/ms_208999/vn5vz1mwF8YD3Ct9ldaHBqbjUtgiwK/b22b5cd12293usrshareelasticsearch%2B2020-06-24%2B10-30-40.png?Expires=1592973000&Signature=aH7~4-ocAYFaCJnKo24qhHh-rK3J6yCXweDmwjrJGmBdlu8PdDE86Cu0Sw1MOfBdg8vtfyWx7DnwzNQKfNPhZQyuuz90wFmXPVvtcjwIYFAK3WkcVkOewxE7VyrMM8DND30NWB0m-mpzWMiYXE74FnEw1NjPpyBsapbcNYfOCQFR9noURtp~vgoN2zJatv5EgJVQQmS54Y2aLb9PMGOlSLZoDnR6td1a2GLdqBkERXLqXiRkWsW7ZNgGaM3X~KaWPNOEfHoOo8JI7KZ4h42BnJh6wEIZH5fvJZNjcEJt8LL3~XIHWpowGoBM-YEu~fkynmkuHBig5wwLO-JPR0WLmQ__&Key-Pair-Id=APKAJBCGYQYURKHBGCOA)
+![](https://i.imgur.com/FdwSrMC.png)
 
 # Reference
 
